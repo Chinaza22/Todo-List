@@ -1,0 +1,58 @@
+html {
+   
+    background: url('/image/todo.jpg');
+    background-size: cover;
+    background-position:top;
+  }
+  
+  body html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+
+.firstTodo{
+   text-align: center;
+   padding-top: 50px;
+   
+
+}
+
+.happy{
+    color:rgb(8, 8, 56);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-stretch: condensed;
+    font-size: 60px;
+}
+
+.proud{
+    width: 15%;
+    height:30px;
+    border-radius: 10px;
+}
+
+.proud:hover {
+    background-color: rgb(251, 245, 250);
+    width:20%;
+    height: 50px;
+}
+
+.peace{
+    background-color: black;
+    color: white;
+    width:100px;
+    height: 34px;
+    border-radius: 10px;
+    
+}
+
+
+h3{
+    font-size: 40px;
+    color:rgb(8, 8, 56);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-stretch: condensed;
+    font-size: 40px;
+}
